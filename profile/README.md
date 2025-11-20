@@ -28,7 +28,7 @@ Este espacio tiene como finalidad poner a disposición de la ciudadanía:
 
   -  <b>Artículo 30°</b> - Los datos estadísticos no podrán ser publicados o difundidos con referencia expresa a las personas o entidades a quienes directa o indirectamente se refieran, si mediare prohibición del o los afectados." (Extractos de la Ley Orgánica 17.374 de creación del Instituto Nacional de Estadísticas, publicada el 10-12-1970).
 
-## <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/b811a563-9f4b-4651-9ee6-37f7e08a7d0b" /> Términos de Uso y Licencia de Datos Abiertos
+## <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/b811a563-9f4b-4651-9ee6-37f7e08a7d0b" /> Términos de Uso
 - Las restricciones para el uso de las bases de datos y en general de todo el material dispuesto por el INE - Chile, está descrito en la página <a href="https://www.ine.gob.cl/terminos-de-uso-y-licencia-de-datos-abiertos" target="_blank">Términos de Uso y Licencia de Datos Abiertos</a>.
 - Al mismo tiempo, los usuarios <b>no podrán directa o indirectamente, utilizar métodos, algoritmos, otras bases de datos, registros administrativos u otras fuentes de información, cualquiera sea el fin, para determinar la identidad de las personas naturales o jurídicas o individualizar los registros (microdatos) contenidos en dichas bases de datos publicadas por el INE</b>. Dicho acto contraviene la normativa relacionada con la ley Nº 19.628 de protección de datos personales; lo consagrado en el artículo 19 Nº4 de la Constitución Política de la República; la Ley N° 20.575, que establece el Principio de Finalidad en el Tratamiento de Datos Personales; y por ende aplica la normativa vigente.
 
