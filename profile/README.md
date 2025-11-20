@@ -1,7 +1,6 @@
-# 📊 Instituto Nacional de Estadísticas – Departamento de Estadísticas Demográficas y Sociales 
-## Repositorios Oficiales ***(PRUEBA)***
+# 📊 Instituto Nacional de Estadísticas  (CAMBIAR POR LOGO INE)
 
-Bienvenido al perfil oficial deL Instituto Nacional de Estadísticas INE, creado para promover la transparencia, la reproducibilidad estadística y el acceso abierto a los procesos utilizados en nuestras operaciones estadísticas.
+Bienvenido al repositorio oficial del Instituto Nacional de Estadísticas INE, creado para promover la transparencia, la reproducibilidad estadística y el acceso abierto al proceso de difusión de nuestras operaciones estadísticas.
 
 ## 🎯 Objetivo
 
