@@ -1,4 +1,7 @@
+[Manual de Uso](./README.md) | [Preguntas Frecuentes (FAQ)](./FAQ.md)
+
 # ![Logo blanco INE 50x50](https://github.com/user-attachments/assets/85be8616-0b3a-4108-a07a-3e3c924a2200) Instituto Nacional de Estadísticas
+
 
 Bienvenido al repositorio oficial del Instituto Nacional de Estadísticas INE, creado para promover la transparencia, la reproducibilidad estadística y el acceso abierto al proceso de difusión de nuestras operaciones estadísticas.
 
