@@ -1,152 +1,155 @@
-# Preguntas Frecuentes (FAQ)
+[README](./README.md) | [Preguntas Frecuentes (FAQ)](./FAQ.md)
 
-Bienvenido al centro de preguntas y respuestas frecuentes de los repositorios de la Subdirección Técnica del Instituto Nacional de Estadísticas de Chile (INE).
+# ![Logo blanco INE 50x50](https://github.com/user-attachments/assets/85be8616-0b3a-4108-a07a-3e3c924a2200) Preguntas Frecuentes (FAQ)
+
+
+Bienvenido al centro de preguntas y respuestas frecuentes de los repositorios de la SubdirecciÃ³n TÃ©cnica del Instituto Nacional de EstadÃ­sticas de Chile (INE).
 
 
 ## 1. Sobre el Repositorio y los Datos
 
 <details>
-  <summary><b>¿Qué contiene este repositorio?</b></summary>
+  <summary><b>Â¿QuÃ© contiene este repositorio?</b></summary>
   <br>
-  Este repositorio reúne código fuente, scripts y funciones desarrollados o utilizados por la Subdirección Técnica del Instituto Nacional de Estadísticas de Chile (INE), asociados a la construcción y reproducción de productos estadísticos publicados por la institución.<br><br>
-  Su contenido está destinado a facilitar la reproducibilidad y transparencia de los resultados estadísticos, poniendo a disposición los códigos de programación utilizados para la elaboración de cuadros estadísticos publicados en <a href="https://ine.gob.cl">ine.gob.cl</a>, correspondientes a algunas de las operaciones estadísticas del INE que cuentan con bases de datos públicas disponibles.<br><br>
-  Cada repositorio indica en su descripción la operación estadística y el producto estadístico asociado, los resultados que permite reproducir.
+  Este repositorio reÃºne cÃ³digo fuente, scripts y funciones desarrollados o utilizados por la SubdirecciÃ³n TÃ©cnica del Instituto Nacional de EstadÃ­sticas de Chile (INE), asociados a la construcciÃ³n y reproducciÃ³n de productos estadÃ­sticos publicados por la instituciÃ³n.<br><br>
+  Su contenido estÃ¡ destinado a facilitar la reproducibilidad y transparencia de los resultados estadÃ­sticos, poniendo a disposiciÃ³n los cÃ³digos de programaciÃ³n utilizados para la elaboraciÃ³n de cuadros estadÃ­sticos publicados en <a href="https://ine.gob.cl">ine.gob.cl</a>, correspondientes a algunas de las operaciones estadÃ­sticas del INE que cuentan con bases de datos pÃºblicas disponibles.<br><br>
+  Cada repositorio indica en su descripciÃ³n la operaciÃ³n estadÃ­stica y el producto estadÃ­stico asociado, los resultados que permite reproducir.
 </details>
 
 <details>
-  <summary><b>¿A quién está dirigido?</b></summary>
+  <summary><b>Â¿A quiÃ©n estÃ¡ dirigido?</b></summary>
   <br>
-  Está dirigido a personas interesadas en las estadísticas oficiales y su procesamiento, como investigadores, periodistas, académicos, estudiantes, analistas de datos y desarrolladores. Para ejecutar algunos proyectos se requieren conocimientos básicos de programación en el lenguaje señalado en el repositorio.
+  EstÃ¡ dirigido a personas interesadas en las estadÃ­sticas oficiales y su procesamiento, como investigadores, periodistas, acadÃ©micos, estudiantes, analistas de datos y desarrolladores. Para ejecutar algunos proyectos se requieren conocimientos bÃ¡sicos de programaciÃ³n en el lenguaje seÃ±alado en el repositorio.
 </details>
 
 <details>
-  <summary><b>¿El código forma parte de una publicación estadística oficial?</b></summary>
+  <summary><b>Â¿El cÃ³digo forma parte de una publicaciÃ³n estadÃ­stica oficial?</b></summary>
   <br>
-  El código complementa la documentación disponible y no reemplaza los productos oficiales publicados por el INE. Si tras la ejecución de estos códigos existiese alguna diferencia respecto de la información oficial publicada en <a href="https://ine.gob.cl">ine.gob.cl</a>, prevalecen las cifras, definiciones, notas técnicas y documentos difundidos en dicho sitio web.<br><br>
-  Los códigos contenidos en este repositorio utilizan exclusivamente las bases de datos públicas del INE, las que han pasado por un estricto proceso de anonimización (para más detalles véase la <a href="https://ine.gob.cl/docs/default-source/buenas-practicas/directrices-metodologicas/guias-y-orientaciones-metodologicas/documentos/guía-control-divulgación-estadística-microdatos.pdf">Guía de control de divulgación estadística de microdatos</a>).
+  El cÃ³digo complementa la documentaciÃ³n disponible y no reemplaza los productos oficiales publicados por el INE. Si tras la ejecuciÃ³n de estos cÃ³digos existiese alguna diferencia respecto de la informaciÃ³n oficial publicada en <a href="https://ine.gob.cl">ine.gob.cl</a>, prevalecen las cifras, definiciones, notas tÃ©cnicas y documentos difundidos en dicho sitio web.<br><br>
+  Los cÃ³digos contenidos en este repositorio utilizan exclusivamente las bases de datos pÃºblicas del INE, las que han pasado por un estricto proceso de anonimizaciÃ³n (para mÃ¡s detalles vÃ©ase la <a href="https://ine.gob.cl/docs/default-source/buenas-practicas/directrices-metodologicas/guias-y-orientaciones-metodologicas/documentos/guÃ­a-control-divulgaciÃ³n-estadÃ­stica-microdatos.pdf">GuÃ­a de control de divulgaciÃ³n estadÃ­stica de microdatos</a>).
 </details>
 
 <details>
-  <summary><b>¿Puedo considerar como datos oficiales aquellos resultados que obtengo de la ejecución de estos códigos?</b></summary>
+  <summary><b>Â¿Puedo considerar como datos oficiales aquellos resultados que obtengo de la ejecuciÃ³n de estos cÃ³digos?</b></summary>
   <br>
-  No, sólo la información que publica el INE en su sitio web tiene el carácter de oficial. El objetivo de este repositorio es facilitar el manejo de las bases de datos públicas. Los resultados de la aplicación y/o modificación de estos scripts por parte de los usuarios son de su propia responsabilidad y podrán ser citados como “Elaboración propia en base a datos del INE”.
+  No, sÃ³lo la informaciÃ³n que publica el INE en su sitio web tiene el carÃ¡cter de oficial. El objetivo de este repositorio es facilitar el manejo de las bases de datos pÃºblicas. Los resultados de la aplicaciÃ³n y/o modificaciÃ³n de estos scripts por parte de los usuarios son de su propia responsabilidad y podrÃ¡n ser citados como â€œElaboraciÃ³n propia en base a datos del INEâ€.
 </details>
 
 <details>
-  <summary><b>¿Todos los repositorios contienen datos?</b></summary>
+  <summary><b>Â¿Todos los repositorios contienen datos?</b></summary>
   <br>
-  No. Los repositorios sólo incluyen código de programación, algunos pueden contener plantillas de Excel o instrucciones para obtener los datos desde una fuente oficial. El README de cada Operación Estadística indica los archivos fuentes necesarios (bases de datos públicas) y señala desde dónde se obtienen.
+  No. Los repositorios sÃ³lo incluyen cÃ³digo de programaciÃ³n, algunos pueden contener plantillas de Excel o instrucciones para obtener los datos desde una fuente oficial. El README de cada OperaciÃ³n EstadÃ­stica indica los archivos fuentes necesarios (bases de datos pÃºblicas) y seÃ±ala desde dÃ³nde se obtienen.
 </details>
 
 <details>
-  <summary><b>¿Los datos incluidos son oficiales y están actualizados?</b></summary>
+  <summary><b>Â¿Los datos incluidos son oficiales y estÃ¡n actualizados?</b></summary>
   <br>
-  Cada repositorio indica la fuente, fecha de extracción, periodo de referencia y estado de los datos utilizados. Antes de publicar o citar resultados, se recomienda comprobar si existen versiones más recientes o rectificaciones en el sitio oficial del INE.
+  Cada repositorio indica la fuente, fecha de extracciÃ³n, periodo de referencia y estado de los datos utilizados. Antes de publicar o citar resultados, se recomienda comprobar si existen versiones mÃ¡s recientes o rectificaciones en el sitio oficial del INE.
 </details>
 
 <details>
-  <summary><b>¿El repositorio contiene datos personales o información confidencial?</b></summary>
+  <summary><b>Â¿El repositorio contiene datos personales o informaciÃ³n confidencial?</b></summary>
   <br>
-  No. Los repositorios sólo incluyen código de programación, algunos pueden contener plantillas de Excel o instrucciones para obtener los datos desde una fuente oficial. Los scripts hacen lectura de microdatos públicos de <a href="https://ine.gob.cl">ine.gob.cl</a> y estos corresponden a archivos anonimizados según las normas de anonimización publicadas en la <a href="https://ine.gob.cl/docs/default-source/buenas-practicas/directrices-metodologicas/guias-y-orientaciones-metodologicas/documentos/guía-control-divulgación-estadística-microdatos.pdf">Guía de control de divulgación estadística de microdatos</a>.
+  No. Los repositorios sÃ³lo incluyen cÃ³digo de programaciÃ³n, algunos pueden contener plantillas de Excel o instrucciones para obtener los datos desde una fuente oficial. Los scripts hacen lectura de microdatos pÃºblicos de <a href="https://ine.gob.cl">ine.gob.cl</a> y estos corresponden a archivos anonimizados segÃºn las normas de anonimizaciÃ³n publicadas en la <a href="https://ine.gob.cl/docs/default-source/buenas-practicas/directrices-metodologicas/guias-y-orientaciones-metodologicas/documentos/guÃ­a-control-divulgaciÃ³n-estadÃ­stica-microdatos.pdf">GuÃ­a de control de divulgaciÃ³n estadÃ­stica de microdatos</a>.
 </details>
 
 ---
 
-## 2. Uso, Ejecución y Aspectos Técnicos
+## 2. Uso, EjecuciÃ³n y Aspectos TÃ©cnicos
 
 <details>
-  <summary><b>¿Cómo se descarga el código?</b></summary>
+  <summary><b>Â¿CÃ³mo se descarga el cÃ³digo?</b></summary>
   <br>
   Se puede utilizar cualquiera de estas alternativas:
   <ol>
     <li>Seleccionar <b>Code</b> y luego <b>Download ZIP</b>.</li>
     <li>Clonar el repositorio mediante Git: <br><code>git clone https://github.com</code></li>
   </ol>
-  La descarga en ZIP es suficiente para consultar o ejecutar el contenido. La clonación con Git facilita recibir actualizaciones y consultar el historial de cambios.
+  La descarga en ZIP es suficiente para consultar o ejecutar el contenido. La clonaciÃ³n con Git facilita recibir actualizaciones y consultar el historial de cambios.
 </details>
 
 <details>
-  <summary><b>¿Qué programa necesito para ejecutar el código?</b></summary>
+  <summary><b>Â¿QuÃ© programa necesito para ejecutar el cÃ³digo?</b></summary>
   <br>
   Depende del lenguaje utilizado. El README de cada repositorio indica:
   <ul>
-    <li>Lenguaje y versión.</li>
+    <li>Lenguaje y versiÃ³n.</li>
     <li>Paquetes o bibliotecas requeridos.</li>
     <li>Sistema operativo probado.</li>
     <li>Programas adicionales necesarios.</li>
-    <li>Instrucciones de instalación.</li>
+    <li>Instrucciones de instalaciÃ³n.</li>
   </ul>
   En proyectos desarrollados en R o Python, se recomienda utilizar las versiones y dependencias declaradas en archivos como <code>renv.lock</code>, <code>requirements.txt</code>, <code>environment.yml</code>, <code>pyproject.toml</code> u otros equivalentes.
 </details>
 
 <details>
-  <summary><b>¿En qué orden deben ejecutarse los archivos?</b></summary>
+  <summary><b>Â¿En quÃ© orden deben ejecutarse los archivos?</b></summary>
   <br>
-  El orden debe estar descrito en el README de cada repositorio particular. No debe suponerse que el orden alfabético de los archivos corresponde al orden de ejecución.
+  El orden debe estar descrito en el README de cada repositorio particular. No debe suponerse que el orden alfabÃ©tico de los archivos corresponde al orden de ejecuciÃ³n.
 </details>
 
 <details>
-  <summary><b>¿Por qué el código no encuentra un archivo?</b></summary>
+  <summary><b>Â¿Por quÃ© el cÃ³digo no encuentra un archivo?</b></summary>
   <br>
-  Las causas más habituales son:
+  Las causas mÃ¡s habituales son:
   <ul>
     <li>El archivo no fue descargado.</li>
     <li>Fue guardado en una carpeta distinta.</li>
-    <li>Cambió su nombre.</li>
-    <li>La ruta está escrita para otro sistema operativo.</li>
-    <li>El nombre contiene diferencias de mayúsculas, espacios o caracteres especiales.</li>
+    <li>CambiÃ³ su nombre.</li>
+    <li>La ruta estÃ¡ escrita para otro sistema operativo.</li>
+    <li>El nombre contiene diferencias de mayÃºsculas, espacios o caracteres especiales.</li>
     <li>El archivo debe obtenerse desde una fuente externa.</li>
   </ul>
-  Se recomienda revisar la sección de datos de entrada y la estructura de carpetas del proyecto antes de modificar el código.
+  Se recomienda revisar la secciÃ³n de datos de entrada y la estructura de carpetas del proyecto antes de modificar el cÃ³digo.
 </details>
 
 <details>
-  <summary><b>¿Por qué aparece un error al instalar o cargar un paquete?</b></summary>
+  <summary><b>Â¿Por quÃ© aparece un error al instalar o cargar un paquete?</b></summary>
   <br>
-  En general los repositorios usan <code>.renv</code>, lo que garantiza que su ejecución se realizará con las librerías y versiones que fueron utilizadas al momento de la construcción de los scripts.<br><br>
-  Puede deberse a una versión incompatible del lenguaje, una dependencia faltante, restricciones de conexión o cambios posteriores en el paquete. La primera medida es reproducir las versiones indicadas en el repositorio. Si el problema persiste, puede informarse mediante una solicitud de soporte institucional.
+  En general los repositorios usan <code>.renv</code>, lo que garantiza que su ejecuciÃ³n se realizarÃ¡ con las librerÃ­as y versiones que fueron utilizadas al momento de la construcciÃ³n de los scripts.<br><br>
+  Puede deberse a una versiÃ³n incompatible del lenguaje, una dependencia faltante, restricciones de conexiÃ³n o cambios posteriores en el paquete. La primera medida es reproducir las versiones indicadas en el repositorio. Si el problema persiste, puede informarse mediante una solicitud de soporte institucional.
 </details>
 
 <details>
-  <summary><b>¿Puedo ejecutar solamente una parte del proyecto?</b></summary>
+  <summary><b>Â¿Puedo ejecutar solamente una parte del proyecto?</b></summary>
   <br>
-  Depende de las relaciones entre los scripts. Un archivo puede requerir resultados generados por etapas anteriores. El README debería distinguir los componentes independientes de aquellos que forman una secuencia obligatoria.
+  Depende de las relaciones entre los scripts. Un archivo puede requerir resultados generados por etapas anteriores. El README deberÃ­a distinguir los componentes independientes de aquellos que forman una secuencia obligatoria.
 </details>
 
 <details>
-  <summary><b>¿Cuánto tarda la ejecución?</b></summary>
+  <summary><b>Â¿CuÃ¡nto tarda la ejecuciÃ³n?</b></summary>
   <br>
-  El tiempo depende del volumen de datos, las características del equipo y las etapas ejecutadas. Cuando una operación sea prolongada o requiera mucha memoria, es posible que la información de estimación de tiempo esté incluida en el README del repositorio.
+  El tiempo depende del volumen de datos, las caracterÃ­sticas del equipo y las etapas ejecutadas. Cuando una operaciÃ³n sea prolongada o requiera mucha memoria, es posible que la informaciÃ³n de estimaciÃ³n de tiempo estÃ© incluida en el README del repositorio.
 </details>
 
 <details>
-  <summary><b>¿Al ejecutar el código obtendré exactamente las cifras publicadas por el INE?</b></summary>
+  <summary><b>Â¿Al ejecutar el cÃ³digo obtendrÃ© exactamente las cifras publicadas por el INE?</b></summary>
   <br>
-  Se deberían obtener los resultados indicados cuando se utilicen los mismos datos de entrada, versiones de software, parámetros y secuencia de ejecución. Pueden existir diferencias cuando:
+  Se deberÃ­an obtener los resultados indicados cuando se utilicen los mismos datos de entrada, versiones de software, parÃ¡metros y secuencia de ejecuciÃ³n. Pueden existir diferencias cuando:
   <ul>
     <li>Los datos fueron actualizados o rectificados.</li>
     <li>Cambiaron las dependencias.</li>
-    <li>El sistema aplica una precisión numérica diferente.</li>
-    <li>Alguna etapa requiere información no incluida en el repositorio.</li>
+    <li>El sistema aplica una precisiÃ³n numÃ©rica diferente.</li>
+    <li>Alguna etapa requiere informaciÃ³n no incluida en el repositorio.</li>
   </ul>
-  El README identifica la publicación y la versión de los datos que el código permite reproducir. Los códigos contenidos en este repositorio utilizan exclusivamente las bases de datos públicas del INE (anonimizadas), por lo que los resultados obtenidos pueden variar respecto de los resultados obtenidos durante la etapa de procesamiento interno, lo que será advertido en el README del respectivo repositorio.
+  El README identifica la publicaciÃ³n y la versiÃ³n de los datos que el cÃ³digo permite reproducir. Los cÃ³digos contenidos en este repositorio utilizan exclusivamente las bases de datos pÃºblicas del INE (anonimizadas), por lo que los resultados obtenidos pueden variar respecto de los resultados obtenidos durante la etapa de procesamiento interno, lo que serÃ¡ advertido en el README del respectivo repositorio.
 </details>
 
 <details>
-  <summary><b>¿Qué resultados debería generar el proyecto?</b></summary>
+  <summary><b>Â¿QuÃ© resultados deberÃ­a generar el proyecto?</b></summary>
   <br>
-  Cada repositorio enumera los archivos de salida esperados, su ubicación y su relación con las tablas, gráficos, indicadores o documentos publicados.
+  Cada repositorio enumera los archivos de salida esperados, su ubicaciÃ³n y su relaciÃ³n con las tablas, grÃ¡ficos, indicadores o documentos publicados.
 </details>
 
 <details>
-  <summary><b>¿Por qué mis resultados difieren de los publicados?</b></summary>
+  <summary><b>Â¿Por quÃ© mis resultados difieren de los publicados?</b></summary>
   <br>
   Primero se deben comprobar:
   <ul>
-    <li>Versión de los datos.</li>
+    <li>VersiÃ³n de los datos.</li>
     <li>Periodo de referencia.</li>
-    <li>Filtros y parámetros.</li>
+    <li>Filtros y parÃ¡metros.</li>
     <li>Versiones de R, Python o del lenguaje utilizado.</li>
     <li>Dependencias instaladas.</li>
-    <li>Orden de ejecución.</li>
+    <li>Orden de ejecuciÃ³n.</li>
     <li>Tratamiento de valores perdidos.</li>
