@@ -1,4 +1,4 @@
-[Manual de Uso](./README.md) | [Preguntas Frecuentes (FAQ)](./FAQ.md)
+[README](./profile/README.md) | [Preguntas Frecuentes (FAQ)](./profile/FAQ.md)
 
 # ![Logo blanco INE 50x50](https://github.com/user-attachments/assets/85be8616-0b3a-4108-a07a-3e3c924a2200) Instituto Nacional de Estadísticas
 
