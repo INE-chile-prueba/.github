@@ -26,7 +26,7 @@ Bienvenido al centro de preguntas y respuestas frecuentes de los repositorios de
   <summary><b>¿El código forma parte de una publicación estadística oficial?</b></summary>
   <br>
   El código complementa la documentación disponible y no reemplaza los productos oficiales publicados por el INE. Si tras la ejecución de estos códigos existiese alguna diferencia respecto de la información oficial publicada en <a href="https://ine.gob.cl">ine.gob.cl</a>, prevalecen las cifras, definiciones, notas técnicas y documentos difundidos en dicho sitio web.<br><br>
-  Los códigos contenidos en este repositorio utilizan exclusivamente las bases de datos públicas del INE, las que han pasado por un estricto proceso de anonimización (para más detalles véase la <a href="https://ine.gob.cl/docs/default-source/buenas-practicas/directrices-metodologicas/guias-y-orientaciones-metodologicas/documentos/guía-control-divulgación-estadística-microdatos.pdf">Guía de control de divulgación estadística de microdatos</a>).
+  Los códigos contenidos en este repositorio utilizan exclusivamente las bases de datos públicas del INE, las que han pasado por un estricto proceso de anonimización (para más detalles véase la <a href="https://www.ine.gob.cl/docs/default-source/buenas-practicas/directrices-metodologicas/guias-y-orientaciones-metodologicas/documentos/gu%C3%ADa-control-divulgaci%C3%B3n-estad%C3%ADstica-microdatos.pdf?sfvrsn=b6bdd28f_4">Guía de control de divulgación estadística de microdatos</a>).
 </details>
 
 <details>
@@ -50,7 +50,7 @@ Bienvenido al centro de preguntas y respuestas frecuentes de los repositorios de
 <details>
   <summary><b>¿El repositorio contiene datos personales o información confidencial?</b></summary>
   <br>
-  No. Los repositorios sólo incluyen código de programación, algunos pueden contener plantillas de Excel o instrucciones para obtener los datos desde una fuente oficial. Los scripts hacen lectura de microdatos públicos de <a href="https://ine.gob.cl">ine.gob.cl</a> y estos corresponden a archivos anonimizados según las normas de anonimización publicadas en la <a href="https://ine.gob.cl/docs/default-source/buenas-practicas/directrices-metodologicas/guias-y-orientaciones-metodologicas/documentos/guía-control-divulgación-estadística-microdatos.pdf">Guía de control de divulgación estadística de microdatos</a>.
+  No. Los repositorios sólo incluyen código de programación, algunos pueden contener plantillas de Excel o instrucciones para obtener los datos desde una fuente oficial. Los scripts hacen lectura de microdatos públicos de <a href="https://ine.gob.cl">ine.gob.cl</a> y estos corresponden a archivos anonimizados según las normas de anonimización publicadas en la <a href="https://www.ine.gob.cl/docs/default-source/buenas-practicas/directrices-metodologicas/guias-y-orientaciones-metodologicas/documentos/gu%C3%ADa-control-divulgaci%C3%B3n-estad%C3%ADstica-microdatos.pdf?sfvrsn=b6bdd28f_4">Guía de control de divulgación estadística de microdatos</a>.
 </details>
 
 ---
