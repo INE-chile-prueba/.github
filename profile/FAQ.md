@@ -63,7 +63,7 @@ Bienvenido al centro de preguntas y respuestas frecuentes de los repositorios de
   Se puede utilizar cualquiera de estas alternativas:
   <ol>
     <li>Seleccionar <b>Code</b> y luego <b>Download ZIP</b>.</li>
-    <li>Clonar el repositorio mediante Git: <br><code>git clone https://github.com</code></li>
+    <li>Clonar el repositorio mediante Git: <br><code>[git clone https://github.com](https://github.com/INE-CHILE-OFICIAL/Nombre_del_repositorio)</code></li>
   </ol>
   La descarga en ZIP es suficiente para consultar o ejecutar el contenido. La clonación con Git facilita recibir actualizaciones y consultar el historial de cambios.
 </details>
