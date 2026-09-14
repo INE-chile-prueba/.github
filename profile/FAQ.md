@@ -106,7 +106,7 @@ Bienvenido al centro de preguntas y respuestas frecuentes de los repositorios de
 <details>
   <summary><b>¿Por qué aparece un error al instalar o cargar un paquete?</b></summary>
   <br>
-  En general los repositorios usan <code>.renv</code>, lo que garantiza que su ejecución se realizará con las librerías y versiones que fueron utilizadas al momento de la construcción de los scripts.<br><br>
+  En general los repositorios usan <code><<renv>></code>, lo que garantiza que su ejecución se realizará con las librerías y versiones que fueron utilizadas al momento de la construcción de los scripts.<br><br>
   Puede deberse a una versión incompatible del lenguaje, una dependencia faltante, restricciones de conexión o cambios posteriores en el paquete. La primera medida es reproducir las versiones indicadas en el repositorio. Si el problema persiste, puede informarse mediante una solicitud de soporte institucional.
 </details>
 
